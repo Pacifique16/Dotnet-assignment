@@ -184,9 +184,23 @@ After first run, you can add sample students:
 
 **Security Note**: Change these credentials in production environments.
 
+## 📝 License
+
+© Copyright 2026 Pacifique Harerimana
+
+This project is for educational purposes as part of AUCA Dot Net coursework. Feel free to fork and learn from it, but please give credit where it's due.
+
+## ⭐ Show Your Support
+
+**If you found this project helpful or interesting, please consider giving it a star!** 🌟
+
+Your support motivates me to create more educational projects and helps others discover useful resources.
+
 ## 👨💻 Author
 
-**Pacifique Harerimana**
+**Pacifique Harerimana**  
+📧 Contact: [GitHub](https://github.com/Pacifique16)
+
 - Institution: AUCA (Adventist University of Central Africa)
 - Course: .NET Programming
 - Semester: 8
@@ -209,5 +223,4 @@ For issues or questions:
 
 ---
 
-**Last Updated**: 2024  
-**License**: Educational Project - AUCA
+*Built with ❤️ for learning and sharing knowledge*
