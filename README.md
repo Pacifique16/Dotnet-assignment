@@ -167,7 +167,7 @@ To change the database connection:
 ## 📊 Sample Data
 
 After first run, you can add sample students:
-- ID: 26937, Name: Pacifique Harerimana, Address: Giseni, DOB: 2026-02-11
+- ID: 26937, Name: Pacifique Harerimana, Address: Gisenyi, DOB: 2026-02-11
 
 ## 🎨 Design Features
 
